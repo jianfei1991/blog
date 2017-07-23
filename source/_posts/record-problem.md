@@ -13,3 +13,11 @@ tags:
 
 
 ![图片测试](record-problem/Mobile-debug.png)
+
+
+## weinre
+1、安装
+2、执行weinre --boundHost -all-
+3、打开localhost:8080 找到页面中的 Target Script
+4、把Target Script 粘贴到需要调试的html中（注：如果是localhost需要换成本机的IP）
+开始调试
