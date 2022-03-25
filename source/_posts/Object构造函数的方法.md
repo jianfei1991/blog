@@ -1,3 +1,11 @@
+---
+title: Object构造函数的方法
+comments: true
+date: 2018-10-27 17:19:36
+tags: 面试
+---
+
+
 - ## [`Object`构造函数的方法](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object#Methods)
 
   - [`Object.assign()`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
@@ -15,7 +23,7 @@
   - [`Object.defineProperties()`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperties)
 
     给对象添加多个属性并分别指定它们的配置。
-
+<!-- more -->
   - [`Object.entries()`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)
 
     返回给定对象自身可枚举属性的`[key, value]`数组。

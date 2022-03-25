@@ -17,7 +17,7 @@ tags:
 
 ### 前端开发可以用nginx做什么
 
-
+<!-- more -->
 ### 操作系统概述
 
 Windows -  x shell、git bash

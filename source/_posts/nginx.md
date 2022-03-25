@@ -36,6 +36,7 @@ nginx -s reload 重启nginx
 Ps -ef | grep nginx 查找进程中是否有启动的nginx
 
 lsof -i:80 查看占用80端口的进程
+<!-- more -->
 
 ### 配置文件
 
